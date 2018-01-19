@@ -1,0 +1,6 @@
+C:\Users\lucho\Desktop\Visual Studio\C#\Nomina\Nomina\bin\Debug\Nomina.exe.config
+C:\Users\lucho\Desktop\Visual Studio\C#\Nomina\Nomina\bin\Debug\Nomina.exe
+C:\Users\lucho\Desktop\Visual Studio\C#\Nomina\Nomina\bin\Debug\Nomina.pdb
+C:\Users\lucho\Desktop\Visual Studio\C#\Nomina\Nomina\obj\Debug\Nomina.csprojResolveAssemblyReference.cache
+C:\Users\lucho\Desktop\Visual Studio\C#\Nomina\Nomina\obj\Debug\Nomina.exe
+C:\Users\lucho\Desktop\Visual Studio\C#\Nomina\Nomina\obj\Debug\Nomina.pdb
